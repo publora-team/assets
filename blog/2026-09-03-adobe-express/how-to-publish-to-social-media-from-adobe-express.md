@@ -4,7 +4,9 @@ Install the Publora add-on, sign in once, and send the design you are looking at
 
 I spent most of August getting this add-on through Adobe's review. Five submissions, four rejections, and the last one was my own fault: I read the summary in their rejection email instead of their guide, fixed the one thing it mentioned, and got turned down again. So I know this panel better than I wanted to. Here is how it works.
 
-![Publishing a design from Adobe Express with the Publora add-on](publora-express-demo.mp4)
+<video src="https://raw.githubusercontent.com/publora-team/assets/main/blog/2026-09-03-adobe-express/publora-express-demo.mp4" controls playsinline width="100%"></video>
+
+*96 seconds, no sound: the marketplace, one sign-in, the render, two accounts, a caption, a saved draft. [Direct link](https://raw.githubusercontent.com/publora-team/assets/main/blog/2026-09-03-adobe-express/publora-express-demo.mp4).*
 
 ### Before you start
 
@@ -17,7 +19,9 @@ You need an Adobe Express account, a Publora account, and at least one social ac
 3. Search for `Publora` and open the listing.
 4. Click **Add**. The panel opens on the right.
 
-![Publora in the Adobe Express add-on marketplace](express-1-marketplace.png)
+![Publora in the Adobe Express add-on marketplace](https://raw.githubusercontent.com/publora-team/assets/main/blog/2026-09-03-adobe-express/express-1-marketplace.png)
+
+*Publora in the Add-ons catalogue. Installed add-ons show Open instead of Add.*
 
 ### Connect Publora
 
@@ -27,7 +31,9 @@ If you would rather not sign in through a window, **Connect with an API key inst
 
 Two browsers need a nudge. Safari blocks the sign-in window until you allow pop-ups for `new.express.adobe.com`. If the window opens but never reports back, use the API key.
 
-![The Publora panel before signing in](express-2-connect.png)
+![The Publora panel before signing in](https://raw.githubusercontent.com/publora-team/assets/main/blog/2026-09-03-adobe-express/express-2-connect.png)
+
+*The panel before sign-in. The free plan terms are stated here, not after you connect.*
 
 ### Send a design
 
@@ -39,7 +45,9 @@ Two browsers need a nudge. Safari blocks the sign-in window until you allow pop-
 
 **Publish.** **Publish now**, **Save as draft**, or **Pick a date and time…** for a scheduled post.
 
-![The panel with a preview, channels and a caption](express-3-compose.png)
+![The panel with a preview, channels and a caption](https://raw.githubusercontent.com/publora-team/assets/main/blog/2026-09-03-adobe-express/express-3-compose.png)
+
+*Instagram and LinkedIn ticked, caption written, the three publishing options open.*
 
 ### What the panel checks before it sends anything
 
@@ -51,7 +59,9 @@ Networks reject posts for reasons they explain badly, usually as `Validation fai
 
 If you change the design after the panel rendered it, the panel notices and offers to render the page again, so an outdated picture does not go out with the post. That one was not a reviewer's request. I found it myself while fixing something else, and it was the worse bug of the two.
 
-![The confirmation screen after saving a draft](express-4-draft.png)
+![The confirmation screen after saving a draft](https://raw.githubusercontent.com/publora-team/assets/main/blog/2026-09-03-adobe-express/express-4-draft.png)
+
+*Draft saved. The post waits in Publora with the page attached, and the post id is right there.*
 
 ### When something does not work
 
