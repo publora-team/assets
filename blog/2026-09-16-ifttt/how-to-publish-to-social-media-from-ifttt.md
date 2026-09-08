@@ -10,7 +10,7 @@ Twelve applets are ready to turn on, so you can see the whole thing work before 
 
 You need an IFTTT account, a Publora account, and at least one social account connected inside Publora. IFTTT publishes through connections you already made, it does not create them. The Publora free plan covers 15 posts a month and three accounts and does not ask for a card.
 
-On the IFTTT side, the Publora applets carry a Pro badge, so turning one on needs an IFTTT Pro plan. Their free tier runs two applets and does not cover ours.
+On the IFTTT side, a free account runs two applets at a time, which is enough for everything below. Publora's own triggers and actions work on that plan.
 
 ### Connect Publora
 
@@ -43,7 +43,7 @@ Turning one on takes two fields: which feed to watch and which of your connected
 
 ![An applet page with the Connect button](https://raw.githubusercontent.com/publora-team/assets/main/blog/2026-09-16-ifttt/04-fields.png)
 
-*Each applet explains what it does before you turn it on. The Pro badge is IFTTT's, not ours.*
+*Each applet explains what it does before you turn it on.*
 
 ### Build your own applet
 
